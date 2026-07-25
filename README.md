@@ -141,7 +141,7 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 
 ## 🖥️ Application
 
-![Application](screenshots/screenshots/Amazon_PPC_ACoS_Analyzer.png)
+![Application](screenshoots/Application.png)
 
 
 
