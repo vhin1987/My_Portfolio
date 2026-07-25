@@ -76,11 +76,11 @@ Amazon-PPC-ACoS-Analyzer/
                                │
                                ▼
                       KPI Calculations
-        CTR • CPC • CVR • ACoS • ROAS • TACoS
+              CTR • CPC • CVR • ACoS • ROAS • TACoS
                                │
                                ▼
                  Search Term Classification
-       Winner • Watch • Waste • Negate Keywords
+              Winner • Watch • Waste • Negate Keywords
                                │
                                ▼
                   Export Clean Dataset (.xlsx)
