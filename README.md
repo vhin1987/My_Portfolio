@@ -144,7 +144,7 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 
 ## 💡 Recommendation
 
-![Recommendation](screenshots/Recommendation.png)
+![Recommendation](screenshoots/Result_Analysis.png)
 
 Based on the analysis, the project recommends:
 
