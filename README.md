@@ -117,9 +117,7 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 
 ---
 
-## 🖥️ Application
 
-![Application](screenshots/screenshots/Amazon_PPC_ACoS_Analyzer.png)
 
 ## ▶️ Run Analysis
 
@@ -140,6 +138,13 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 | ✅ Scale Winners | ⚠️ Optimize / Watch | ❌ Waste | 🚫 Negate Keyword | 🚫 Negate Keyword |
 
 ---
+
+## 🖥️ Application
+
+![Application](screenshots/screenshots/Amazon_PPC_ACoS_Analyzer.png)
+
+
+
 
 ## 💡 Recommendation
 
