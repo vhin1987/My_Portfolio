@@ -124,7 +124,7 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 |-----|-----|------|------|-------|-------|
 | Clicks ÷ Impressions | Spend ÷ Clicks | Orders ÷ Clicks | Spend ÷ Sales | Sales ÷ Spend | Spend ÷ Total Sales |
 
-## 📈 Search Term Classification Rules
+## 📈 Search Term Classification | Cleaning Rules
 
 | ACoS ≤ 30% | 30% < ACoS ≤ 40% | ACoS > 40% | Spend > $10 & Sales = 0 | Clicks > 20 & Orders = 0 |
 |-------------|------------------|------------|--------------------------|--------------------------|
