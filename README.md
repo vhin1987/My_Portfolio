@@ -102,8 +102,8 @@ Deliver multi-tab Excel workbooks formatted into native tables — combining **P
 ## ❓ Questions This Project Answers
 
 ## 1️⃣ Did the April 2024 Amazon PPC campaign meet the target ACoS of less than 30%?**
-## 2️⃣ **Which keywords are wasting advertising spend and should be optimized or negated?**
-## 3️⃣ **How can campaign performance be improved?**
+## 2️⃣ Which keywords are wasting advertising spend and should be optimized or negated?**
+## 3️⃣ How can campaign performance be improved?**
 
 ---
 
