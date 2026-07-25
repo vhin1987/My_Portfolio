@@ -118,13 +118,6 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 ---
 
 
-
-## ▶️ Run Analysis
-
-![Run_Analysis](screenshots/Run_Analysis.png)
-
----
-
 ## 📊 KPI Calculations
 
 | CTR | CPC | CVR | ACoS | ROAS | TACoS |
