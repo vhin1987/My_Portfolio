@@ -145,6 +145,9 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 
 
 
+## Analysis Running
+![Analysis_Running](screenshoots/Analysis_Complete.png)
+
 
 ## 💡 Recommendation
 
