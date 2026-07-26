@@ -182,7 +182,7 @@ The application automates the analysis of Amazon Search Term Reports by applying
 ![Analysis_Running](screenshoots/Analysis_Complete.png)
 
 
-## 💡 Cleaned Excel Report
+## Cleaned Excel Report
 
 ![Recommendation](screenshoots/Result_Analysis.png)
 
