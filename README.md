@@ -136,6 +136,30 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 ![Application](screenshoots/Application.png)
 
 
+##📌 Business Rules (Application Logic)
+📌 Business Rules (Application Logic)
+
+The Amazon PPC ACoS Analyzer automatically classifies search terms using predefined business rules based on advertising performance. These rules help identify profitable keywords, keywords that need optimization, and keywords that should be negated to reduce wasted ad spend.
+
+Rule	Classification	Recommended Action
+ACoS ≤ 30%	✅ Scale Winner	Increase bid or budget to maximize profitable sales.
+30% < ACoS ≤ 40%	⚠️ Optimize / Watch	Monitor performance and optimize bids or targeting.
+ACoS > 40%	❌ Waste	Reduce bids, pause, or review keyword relevance.
+Spend > $10 & Sales = 0	🚫 Negate Keyword	Significant spend with no sales; consider adding as a negative keyword.
+Clicks > 20 & Orders = 0	🚫 Negate Keyword	High traffic but no conversions; likely poor keyword relevance.
+🎯 Why These Rules?
+
+These rules automate the analysis of Amazon Search Term Reports, enabling advertisers to:
+
+Identify profitable keywords to scale.
+Detect underperforming keywords that require optimization.
+Eliminate keywords that waste advertising budget.
+Make faster, data-driven PPC optimization decisions.
+
+Note
+
+The thresholds used in this application are fully configurable and can be customized to meet each client's business goals and PPC strategy. For example, a client may target an ACoS of 20%, 25%, or 35%, or use different spend and click thresholds based on product margins, advertising budget, and campaign objectives. The default values in this project are provided as an example and can be easily modified in the application configuration.
+
 
 ## Analysis Running
 ![Analysis_Running](screenshoots/Analysis_Complete.png)
