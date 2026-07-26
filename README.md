@@ -166,7 +166,7 @@ The application automates the analysis of Amazon Search Term Reports by applying
 > - A client prioritizing profitability may require an **ACoS below 20–25%**.
 > - Spend and click thresholds for keyword negation can also be adjusted.
 >
-> The default values in this project (**30% Target ACoS**, **40% Break-even ACoS**, **$10 Spend**, and **10 Clicks**) are sample business rules and can be modified to meet different client requirements.
+> The default values in this project (**30% Target ACoS**, **40% Break-even ACoS**, **$10 Spend**, and **20 Clicks**) are sample business rules and can be modified to meet different client requirements.
 
 
 
