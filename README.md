@@ -173,7 +173,7 @@ The application automates the analysis of Amazon Search Term Reports by applying
 
 
 
-
+---
 
 
 
