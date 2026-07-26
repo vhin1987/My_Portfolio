@@ -1,4 +1,3 @@
-# My_Portfolio
 # Amazon PPC ACoS Analyzer 📊
 
 **A Data-Driven PPC Optimization Tool — Built by an Amazon PPC Specialist with a Data Analyst's Toolkit**
