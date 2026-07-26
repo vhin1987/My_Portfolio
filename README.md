@@ -158,7 +158,9 @@ The application automates the analysis of Amazon Search Term Reports by applying
 > **Configurable Business Rules**
 >
 > The thresholds used in this application are **not fixed**. They are fully configurable and can be customized based on each client's business objectives, profit margins, advertising budget, or PPC strategy.
->
+
+![Ruless](screenshoots/Rules.png)
+
 > **Examples:**
 > - A client targeting aggressive growth may accept an **ACoS of 35–40%**.
 > - A client prioritizing profitability may require an **ACoS below 20–25%**.
