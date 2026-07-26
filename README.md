@@ -182,13 +182,31 @@ The application automates the analysis of Amazon Search Term Reports by applying
 ![Analysis_Running](screenshoots/Analysis_Complete.png)
 
 
-## 💡 Recommendation
+## 💡 
 
 ![Recommendation](screenshoots/Result_Analysis.png)
 
 ---
+## 📊 Business Solution
 
-The application converts raw Amazon Search Term Reports into a business-ready Excel solution by combining data analytics with Amazon PPC expertise. It automates data cleaning, KPI calculations, and keyword classification to generate actionable insights and optimization recommendations. The final report helps Amazon PPC Specialists and brand owners identify profitable keywords, reduce wasted advertising spend, and make data-driven campaign decisions with confidence.
+The application transforms raw Amazon Sponsored Products Search Term Reports into a **business-ready Excel solution** by combining **Amazon PPC expertise** with **data analytics**.
+
+Through an automated workflow, the application:
+
+- 🧹 Cleans and validates raw PPC data
+- 📊 Calculates key performance indicators (CTR, CPC, CVR, ACoS, ROAS, and TACoS)
+- 🏷️ Classifies search terms using configurable business rules
+- 💡 Generates actionable insights and PPC optimization recommendations
+- 📁 Exports a stakeholder-ready Excel report for decision-making
+
+The final report enables **Amazon PPC Specialists**, **Brand Owners**, and **Amazon Sellers** to:
+
+- ✅ Identify profitable keywords to scale
+- ⚠️ Detect keywords that require optimization
+- 🚫 Reduce wasted advertising spend through negative keyword recommendations
+- 📈 Improve campaign performance and profitability
+- 🎯 Make faster, data-driven campaign optimization decisions with confidence
+
 ---
 
 ## 🛠️ Tools & Technologies
