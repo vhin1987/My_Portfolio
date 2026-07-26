@@ -186,22 +186,9 @@ The application automates the analysis of Amazon Search Term Reports by applying
 
 ![Recommendation](screenshoots/Result_Analysis.png)
 
-Based on the analysis, the project recommends:
+---
 
-### ✅ Scale Winners
-- Increase bids
-- Increase campaign budget
-- Move search terms into Exact Match campaigns
-
-### ⚠️ Optimize / Watch
-- Reduce bids on high ACoS keywords
-- Test new match types
-- Improve product listings
-
-### ❌ Waste / Negate
-- Add Negative Keywords
-- Pause consistently poor-performing keywords
-
+The application converts raw Amazon Search Term Reports into a business-ready Excel solution by combining data analytics with Amazon PPC expertise. It automates data cleaning, KPI calculations, and keyword classification to generate actionable insights and optimization recommendations. The final report helps Amazon PPC Specialists and brand owners identify profitable keywords, reduce wasted advertising spend, and make data-driven campaign decisions with confidence.
 ---
 
 ## 🛠️ Tools & Technologies
