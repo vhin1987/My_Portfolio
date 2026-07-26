@@ -130,6 +130,7 @@ Amazon Seller Account Owner • Brand Owner • Amazon PPC Manager • Amazon PP
 
 ![Application](screenshoots/Application.png)
 
+---
 
 ## 📌 Business Rules (Application Logic)
 
@@ -143,7 +144,7 @@ The Amazon PPC ACoS Analyzer automatically classifies search terms using predefi
 | **Spend > $10 & Sales = 0** | 🚫 Negate Keyword | Significant spend with no sales; add as a negative keyword to prevent further wasted spend. |
 | **Clicks > 20 & Orders = 0** | 🚫 Negate Keyword | High traffic but no conversions; consider adding as a negative keyword. |
 
-### 🎯 Why These Rules?
+## 🎯 Why These Rules?
 
 The application automates the analysis of Amazon Search Term Reports by applying business rules to every search term. Instead of manually reviewing thousands of keywords, users receive instant recommendations to:
 
